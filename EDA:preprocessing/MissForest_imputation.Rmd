@@ -1,0 +1,66 @@
+---
+title: "imputation"
+author: "yuqingxia"
+date: "2024-03-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(missForest)
+```
+
+```{r}
+mydata = read.csv("german_credit_data.csv")
+str(mydata)
+```
+```{r}
+predictors = mydata[,-c(1,8)]
+str(predictors)
+```
+
+```{r}
+predictors$Sex = as.factor(predictors$Sex)
+predictors$Housing = as.factor(predictors$Housing)
+predictors$Saving.accounts = as.factor(predictors$Saving.accounts)
+predictors$Checking.account = as.factor(predictors$Checking.account)
+predictors$Purpose = as.factor(predictors$Purpose)
+```
+```{r}
+imputed = missForest(predictors)
+```
+```{r}
+imputed$ximp
+```
+```{r}
+after_impute = imputed$ximp
+after_impute$Credit.amount = mydata$Credit.amount
+```
+
+```{r}
+library(caTools)
+
+#make this example reproducible
+set.seed(1)
+
+#use 70% of dataset as training set and 30% as test set
+sample <- sample.split(after_impute$Age, SplitRatio = 0.75)
+train  <- subset(after_impute, sample == TRUE)
+test   <- subset(after_impute, sample == FALSE)
+```
+```{r}
+str(train)
+str(test)
+```
+
+```{r}
+#write.csv(train, "train.csv", row.names = FALSE)
+#write.csv(test, "test.csv", row.names = FALSE)
+
+```
+
