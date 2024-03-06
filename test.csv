@@ -1,0 +1,249 @@
+"Age","Sex","Job","Housing","Saving.accounts","Checking.account","Duration","Purpose","Credit.amount"
+22,"female",2,"own","little","moderate",48,"radio/TV",5951
+53,"male",2,"own","quite rich","moderate",24,"furniture/equipment",2835
+24,"female",2,"rent","little","little",48,"business",4308
+60,"male",1,"own","little","little",24,"car",1199
+44,"female",3,"free","little","moderate",24,"car",12579
+44,"male",2,"rent","quite rich","little",6,"radio/TV",2647
+27,"male",2,"own","little","little",24,"furniture/equipment",4020
+33,"female",3,"own","little","rich",12,"furniture/equipment",1474
+31,"male",2,"free","little","moderate",48,"education",6110
+24,"male",2,"rent","moderate","little",30,"car",6187
+39,"male",1,"own","little","little",11,"car",7228
+23,"female",1,"rent","little","little",36,"furniture/equipment",6229
+22,"male",2,"own","rich","moderate",12,"car",1007
+25,"female",2,"own","little","moderate",36,"radio/TV",2394
+30,"female",2,"own","little","little",36,"car",8133
+22,"male",2,"own","little","moderate",30,"furniture/equipment",3832
+52,"male",1,"own","little","little",10,"radio/TV",2315
+29,"female",3,"own","little","moderate",12,"business",1412
+28,"male",2,"own","little","little",12,"repairs",1108
+56,"male",2,"own","little","little",12,"radio/TV",618
+54,"male",2,"own","little","little",12,"car",1409
+20,"male",2,"rent","little","rich",24,"furniture/equipment",3617
+54,"male",2,"own","rich","moderate",12,"car",1318
+58,"male",2,"rent","little","moderate",54,"business",15945
+61,"female",2,"own","little","little",12,"education",2012
+34,"male",2,"own","moderate","moderate",18,"business",2622
+35,"male",2,"rent","little","moderate",9,"furniture/equipment",1919
+35,"male",2,"own","quite rich","little",12,"radio/TV",1680
+36,"male",3,"own","quite rich","moderate",12,"car",2366
+63,"male",2,"free","little","rich",10,"car",781
+30,"male",2,"own","little","little",12,"car",2121
+40,"male",1,"own","little","little",12,"radio/TV",701
+34,"male",3,"own","little","moderate",12,"car",1860
+27,"male",1,"own","little","little",15,"furniture/equipment",2708
+38,"female",2,"own","little","rich",12,"radio/TV",1240
+27,"male",2,"own","rich","moderate",27,"car",8613
+66,"male",1,"own","quite rich","moderate",12,"radio/TV",766
+27,"male",3,"own","little","little",27,"radio/TV",3416
+23,"female",2,"own","little","little",21,"furniture/equipment",2288
+30,"male",2,"own","moderate","moderate",48,"business",3566
+51,"female",2,"own","moderate","moderate",12,"car",682
+38,"male",2,"own","little","rich",10,"radio/TV",1924
+36,"male",3,"rent","moderate","moderate",24,"business",6967
+48,"male",2,"own","moderate","little",9,"repairs",1288
+45,"male",1,"own","little","little",12,"education",339
+36,"male",2,"own","moderate","moderate",24,"radio/TV",2872
+32,"male",2,"own","quite rich","moderate",6,"furniture/equipment",2978
+25,"female",2,"rent","little","little",24,"furniture/equipment",3972
+26,"male",2,"own","little","little",21,"education",3414
+28,"male",2,"own","little","moderate",36,"business",9572
+40,"male",1,"own","little","little",21,"car",1647
+50,"male",2,"own","rich","moderate",24,"furniture/equipment",3777
+31,"male",2,"own","little","rich",15,"radio/TV",1360
+68,"male",0,"free","little","moderate",16,"car",1175
+21,"male",2,"rent","moderate","moderate",45,"radio/TV",3031
+28,"female",2,"own","little","rich",6,"radio/TV",1382
+27,"female",2,"rent","moderate","moderate",12,"furniture/equipment",951
+36,"male",2,"free","moderate","moderate",24,"car",2760
+26,"male",2,"own","little","moderate",12,"domestic appliances",1424
+32,"male",2,"own","little","moderate",24,"business",2978
+26,"male",2,"own","little","rich",36,"radio/TV",4210
+51,"male",2,"own","little","moderate",6,"radio/TV",1595
+35,"female",1,"own","quite rich","moderate",12,"education",3447
+35,"male",2,"rent","moderate","moderate",6,"car",1204
+24,"male",2,"own","little","moderate",9,"furniture/equipment",2030
+23,"female",2,"own","moderate","moderate",15,"car",3812
+55,"female",2,"own","little","little",24,"radio/TV",1603
+36,"male",3,"free","little","little",18,"car",5302
+57,"female",1,"free","little","little",12,"education",2748
+32,"male",1,"own","little","rich",10,"car",1231
+34,"male",1,"own","little","little",30,"repairs",11998
+50,"male",2,"own","little","little",12,"furniture/equipment",1574
+63,"male",2,"own","little","little",15,"furniture/equipment",1520
+35,"female",1,"own","little","little",47,"car",10722
+31,"male",3,"free","moderate","moderate",48,"vacation/others",7582
+48,"male",2,"own","little","little",24,"radio/TV",1024
+26,"male",2,"own","little","moderate",12,"business",1076
+20,"female",2,"rent","rich","moderate",12,"car",4675
+45,"male",1,"own","little","little",10,"car",1287
+37,"male",1,"own","little","rich",24,"car",1344
+49,"male",2,"own","little","little",10,"car",1038
+24,"female",1,"rent","moderate","moderate",30,"car",4811
+40,"male",0,"free","moderate","moderate",48,"vacation/others",5381
+28,"male",2,"own","rich","little",18,"furniture/equipment",2659
+39,"male",1,"own","little","little",8,"car",3398
+24,"female",3,"own","moderate","moderate",60,"car",7408
+24,"female",1,"rent","moderate","moderate",48,"car",11590
+23,"male",2,"rent","little","little",24,"furniture/equipment",4110
+24,"female",2,"rent","little","little",15,"domestic appliances",1275
+26,"female",1,"rent","little","little",21,"furniture/equipment",3599
+33,"male",3,"own","little","moderate",18,"business",4439
+23,"male",2,"own","little","moderate",13,"radio/TV",882
+23,"female",0,"rent","quite rich","moderate",24,"radio/TV",3758
+34,"male",1,"own","moderate","moderate",6,"business",1743
+38,"male",3,"own","little","moderate",18,"car",3229
+49,"male",2,"own","quite rich","moderate",12,"radio/TV",2331
+61,"male",2,"free","little","moderate",18,"education",1239
+37,"male",3,"own","little","rich",12,"radio/TV",3399
+25,"male",0,"own","little","little",18,"furniture/equipment",2473
+33,"male",2,"own","little","rich",18,"radio/TV",6070
+60,"female",3,"free","moderate","moderate",60,"vacation/others",14782
+25,"female",2,"rent","little","little",22,"car",1283
+30,"male",3,"own","little","moderate",18,"car",1820
+31,"male",3,"own","little","moderate",9,"furniture/equipment",2406
+32,"male",2,"rent","moderate","moderate",39,"education",11760
+46,"male",2,"own","little","little",36,"furniture/equipment",2348
+39,"male",2,"own","little","rich",18,"radio/TV",1473
+27,"male",1,"own","little","little",14,"car",802
+20,"female",2,"own","little","moderate",24,"radio/TV",1967
+20,"female",2,"rent","rich","moderate",15,"car",3186
+29,"male",2,"own","little","rich",28,"radio/TV",2743
+46,"male",2,"own","rich","rich",18,"radio/TV",1149
+25,"male",2,"own","little","little",9,"furniture/equipment",2136
+41,"female",1,"rent","little","rich",9,"education",1244
+55,"female",3,"own","little","rich",12,"furniture/equipment",1424
+29,"female",3,"own","little","moderate",24,"car",2679
+36,"male",2,"rent","little","little",11,"car",3905
+23,"female",2,"own","little","little",6,"education",448
+26,"female",2,"rent","little","little",18,"furniture/equipment",3114
+47,"male",3,"own","little","moderate",6,"car",1209
+42,"female",3,"free","little","moderate",27,"business",8318
+42,"male",2,"free","little","little",36,"car",5493
+24,"female",2,"rent","little","little",24,"car",1207
+27,"male",1,"own","little","little",10,"car",1309
+34,"male",3,"own","moderate","moderate",15,"car",6850
+28,"male",2,"own","little","rich",24,"radio/TV",1413
+45,"male",3,"own","moderate","moderate",39,"car",8588
+32,"male",3,"free","little","little",36,"car",4686
+26,"male",2,"rent","little","rich",15,"business",2687
+43,"male",2,"own","moderate","little",6,"car",1203
+44,"male",2,"free","little","little",24,"repairs",5507
+24,"female",2,"own","little","little",18,"radio/TV",3190
+53,"male",2,"free","little","little",48,"furniture/equipment",7119
+30,"male",2,"own","little","moderate",26,"car",7966
+41,"male",1,"own","little","little",6,"car",662
+32,"male",2,"own","little","moderate",36,"education",2273
+28,"female",2,"rent","moderate","moderate",15,"car",2631
+37,"female",2,"own","little","moderate",18,"furniture/equipment",3612
+43,"male",2,"free","little","little",24,"car",1333
+23,"female",2,"own","moderate","moderate",12,"repairs",996
+45,"male",1,"own","quite rich","moderate",6,"radio/TV",1750
+31,"male",1,"own","little","moderate",18,"furniture/equipment",1928
+38,"male",2,"own","little","rich",30,"radio/TV",5954
+27,"female",2,"own","little","moderate",12,"radio/TV",2930
+52,"female",3,"free","little","little",12,"car",2133
+36,"male",1,"own","little","moderate",24,"business",4241
+32,"male",2,"free","little","moderate",24,"business",3863
+22,"male",2,"own","quite rich","little",24,"furniture/equipment",2828
+74,"male",3,"own","little","rich",24,"business",4526
+22,"female",2,"rent","little","little",24,"car",3632
+22,"female",2,"own","little","little",18,"furniture/equipment",1808
+27,"male",3,"free","moderate","moderate",60,"radio/TV",9157
+37,"male",2,"rent","little","little",6,"car",3676
+49,"male",1,"own","little","little",12,"car",640
+36,"male",2,"own","quite rich","moderate",42,"furniture/equipment",4042
+25,"female",1,"own","little","moderate",24,"car",1355
+28,"female",2,"own","quite rich","moderate",24,"radio/TV",1376
+21,"male",2,"own","little","moderate",60,"radio/TV",15653
+38,"male",1,"own","little","moderate",15,"repairs",1308
+26,"female",2,"own","quite rich","moderate",12,"car",1386
+37,"male",2,"own","quite rich","moderate",48,"radio/TV",10222
+23,"male",2,"rent","little","rich",12,"radio/TV",1297
+27,"female",2,"own","little","moderate",48,"business",3609
+27,"male",1,"own","moderate","moderate",24,"business",4139
+42,"male",3,"own","little","little",60,"car",10366
+33,"male",2,"own","little","little",24,"furniture/equipment",5150
+64,"male",1,"rent","little","little",24,"radio/TV",2384
+34,"male",2,"free","little","little",60,"car",6527
+31,"male",2,"own","rich","little",12,"car",3651
+29,"male",2,"own","moderate","moderate",24,"radio/TV",2896
+28,"male",2,"own","little","rich",24,"radio/TV",2284
+24,"male",2,"own","little","rich",18,"radio/TV",1800
+29,"female",1,"rent","quite rich","moderate",12,"furniture/equipment",1123
+41,"male",2,"own","moderate","moderate",30,"business",2503
+35,"female",2,"free","quite rich","moderate",15,"car",5324
+25,"female",2,"rent","little","moderate",12,"furniture/equipment",2969
+35,"female",2,"free","little","little",6,"education",1198
+46,"male",3,"own","little","moderate",21,"car",2476
+25,"male",1,"own","little","little",9,"radio/TV",1138
+40,"male",2,"own","little","rich",30,"radio/TV",3077
+31,"male",2,"own","little","rich",24,"radio/TV",3148
+31,"male",2,"own","moderate","moderate",20,"car",6148
+41,"female",1,"own","rich","rich",6,"car",250
+59,"female",2,"rent","little","moderate",48,"business",6416
+36,"male",2,"own","rich","rich",24,"business",1275
+33,"male",2,"own","little","moderate",24,"radio/TV",6403
+21,"male",1,"rent","little","little",24,"radio/TV",1987
+44,"female",1,"own","little","moderate",8,"radio/TV",760
+35,"male",1,"own","moderate","little",18,"car",4380
+26,"female",1,"rent","moderate","moderate",30,"business",4280
+23,"male",1,"own","little","moderate",10,"radio/TV",1048
+26,"male",2,"own","little","little",21,"car",5248
+23,"female",1,"rent","moderate","moderate",12,"business",841
+31,"male",2,"own","little","little",24,"car",1393
+24,"male",1,"own","little","little",12,"radio/TV",2214
+40,"male",1,"own","little","moderate",12,"radio/TV",1155
+36,"male",3,"own","little","moderate",21,"car",3275
+25,"female",2,"rent","little","little",24,"car",1371
+38,"male",3,"own","rich","moderate",36,"car",5711
+67,"female",2,"own","little","moderate",18,"repairs",3872
+39,"female",2,"own","little","moderate",21,"business",1188
+27,"male",2,"own","rich","moderate",6,"furniture/equipment",1221
+35,"male",0,"own","moderate","moderate",9,"car",1549
+48,"female",1,"rent","little","moderate",18,"radio/TV",1795
+26,"male",1,"own","little","moderate",6,"radio/TV",590
+28,"male",1,"own","little","moderate",6,"radio/TV",484
+43,"male",3,"own","little","little",36,"vacation/others",15857
+26,"male",2,"own","little","little",18,"radio/TV",1345
+47,"male",2,"free","little","little",36,"car",8335
+29,"male",2,"rent","little","little",45,"business",11816
+42,"female",2,"own","quite rich","moderate",24,"radio/TV",5084
+21,"female",2,"own","little","moderate",12,"radio/TV",886
+40,"female",2,"own","rich","moderate",10,"education",894
+28,"male",2,"free","little","little",15,"furniture/equipment",3343
+35,"female",2,"own","little","little",24,"radio/TV",2439
+28,"male",2,"own","little","rich",36,"radio/TV",3595
+65,"female",0,"own","little","little",18,"radio/TV",1098
+34,"male",2,"own","moderate","moderate",24,"business",2825
+43,"male",3,"own","little","little",27,"business",2442
+31,"male",3,"own","little","moderate",36,"car",8947
+33,"female",1,"rent","quite rich","moderate",15,"furniture/equipment",2186
+27,"male",2,"own","little","moderate",36,"education",3711
+46,"female",1,"own","little","little",15,"car",3594
+34,"female",2,"own","little","moderate",36,"radio/TV",4454
+25,"female",1,"own","little","moderate",24,"furniture/equipment",4736
+32,"female",3,"own","little","moderate",48,"vacation/others",18424
+33,"male",2,"own","moderate","little",24,"furniture/equipment",2359
+30,"male",2,"rent","little","moderate",12,"car",2002
+39,"male",2,"free","little","little",48,"car",10297
+42,"male",2,"own","quite rich","moderate",12,"radio/TV",522
+30,"male",3,"rent","little","moderate",6,"radio/TV",2063
+30,"female",2,"own","quite rich","moderate",48,"car",8358
+29,"female",2,"own","little","little",12,"car",1893
+57,"female",3,"rent","rich","little",24,"radio/TV",1231
+49,"male",1,"own","little","rich",30,"radio/TV",3656
+37,"male",1,"own","little","moderate",9,"radio/TV",1154
+30,"male",2,"rent","little","moderate",6,"radio/TV",1740
+47,"male",2,"own","little","moderate",21,"car",2353
+29,"male",2,"own","little","little",15,"car",3556
+22,"male",1,"own","little","moderate",6,"repairs",454
+23,"male",1,"own","quite rich","moderate",27,"radio/TV",2520
+42,"male",2,"own","quite rich","moderate",18,"business",2427
+47,"male",1,"own","little","little",24,"car",2538
+33,"male",3,"rent","little","moderate",48,"business",4844
+29,"male",3,"free","little","little",24,"car",6579
+37,"male",1,"own","quite rich","moderate",12,"education",3565
+30,"male",3,"own","little","little",36,"furniture/equipment",3959
+50,"male",2,"own","little","little",12,"car",2390
