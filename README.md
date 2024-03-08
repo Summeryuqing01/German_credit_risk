@@ -8,3 +8,8 @@ References:
 Data source:
 
 https://www.kaggle.com/datasets/uciml/german-credit/code
+
+Contributors:
+Ian Rector
+Summer Xia
+Jiahao Zhang
