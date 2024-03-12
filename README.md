@@ -48,13 +48,13 @@ MissForest is advantageous because it can handle different types of variables (c
 ## Model Comparison
 <img width="697" alt="Screenshot 2024-03-12 at 00 09 00" src="https://github.com/Summeryuqing01/German_credit_risk/assets/56556388/d0c32a04-cff1-4e8e-817b-059845c18cfe">
 
-## References:
-[Miss Forest Imputation](https://cran.r-project.org/web/packages/missForest/missForest.pdf)
+## References
+https://cran.r-project.org/web/packages/missForest/missForest.pdf
 
-## Data source:
+## Data source
 https://www.kaggle.com/datasets/uciml/german-credit/code
 
-## Contributors:
+## Contributors
 Ian Rector\
 Summer Xia\
 Jiahao Zhang
