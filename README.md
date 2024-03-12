@@ -34,12 +34,35 @@ MissForest is advantageous because it can handle different types of variables (c
 
 ## Models:
 ### Linear Regression
+<img width="280" alt="Screenshot 2024-03-12 at 18 27 27" src="https://github.com/Summeryuqing01/German_credit_risk/assets/56556388/32c3d354-b192-45a7-9f2e-dc4c5db0c0b1"> \
+<img width="216" alt="Screenshot 2024-03-12 at 18 27 32" src="https://github.com/Summeryuqing01/German_credit_risk/assets/56556388/33194b72-d16b-42d7-9720-e07d3f6d152e">
+
+These results suggest that while the top three correlated features contribute significantly to the model, other variables in the dataset also provide valuable information that enhances the model's predictive power.
 
 ### Dummy Variable Regression
+<img width="289" alt="Screenshot 2024-03-12 at 18 29 22" src="https://github.com/Summeryuqing01/German_credit_risk/assets/56556388/843ddfa5-2522-4a26-9121-87be12ccf310">\
+Different models were evaluated by excluding one subcategory at a time from either the savings, checking, or purpose variables. \
+Best Performance: The model excluding Purpose_repairs shows the best performance with the lowest MSE and RMSE, and the highest R² (0.524).
+### Ordinal Data
+We were having trouble getting results better than 0.5 R^2 and MSE’s of around 4,000,000
+We decided to make the categorical data ordinal for Housing, Savings, and Checking and excluded Purpose since it did not work well to make it ordinal
+Job was already encoded as an ordinal variable, bu for some reason housing, savings and checking were not even though they make for very good ordinal variables
+Then eliminated multicollinear factors with a VIF of greater than 5: Age and Job
 
 ### Polynomial Regression
+Degree of 2\
+MSE = 4,757,599\
+R^2= 0.505
 
 ### Random Forest Regression
+MSE = 4,821,506\
+R^2 = 0.498\
+Used Grid search to find best hyperparameters with 10 -fold cv\
+Max_depth = 20\
+Max_features = log2\
+Min_samples_leaf = 4\
+Min_samples_split = 10\
+N_estimators = 50
 
 ### Neural Network
 <img width="460" alt="Screenshot 2024-03-12 at 00 23 05" src="https://github.com/Summeryuqing01/German_credit_risk/assets/56556388/977acb1b-8df8-4b45-a399-9bd1f44f60e4">
